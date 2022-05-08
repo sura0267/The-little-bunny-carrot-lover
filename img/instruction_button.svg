@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="893.789" height="880.672" viewBox="0 0 893.789 880.672">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5fe436;
+      }
+
+      .cls-2 {
+        fill: #18c724;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-3 {
+        stroke-width: 40px;
+      }
+
+      .cls-4 {
+        stroke-width: 55px;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-1024.902 -455.976)">
+    <g id="Group_3" data-name="Group 3" transform="translate(1032.594 463.312)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+        <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="439.203" cy="433" rx="439.203" ry="433"/>
+      </g>
+      <path id="Path_1" d="M223.166,222.838s-3.074,291.143,0,313.43c3.074,22.641,77.868,21.226,77.527,8.844s2.391-314.137,0-329-70.7-6.721-70.7-6.721h-6.831Z" transform="translate(177.462 162.735)"/>
+      <g id="Ellipse_2" transform="translate(378.053 217.879)">
+        <ellipse id="Ellipse_3" data-name="Ellipse 3" class="cls-2" cx="56.421" cy="62.642" rx="56.421" ry="62.642" transform="translate(0 0)"/>
+        <ellipse id="Ellipse_4" data-name="Ellipse 4" class="cls-3" cx="39.647" cy="41.761" rx="39.647" ry="41.761" transform="translate(16.774 20.881)"/>
+      </g>
+      <path id="Path_1-2" data-name="Path 1" class="cls-4" d="M419.395,0C651.02,0,838.789,184.833,838.789,412.836S651.02,825.672,419.395,825.672,0,640.839,0,412.836,187.769,0,419.395,0Z" transform="translate(19.808 20.164)"/>
+    </g>
+  </g>
+</svg>

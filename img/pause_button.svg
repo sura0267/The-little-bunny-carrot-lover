@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="533" height="550" viewBox="0 0 533 550">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #35d823;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #0f0d0d;
+        stroke-width: 25px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: #191616;
+      }
+
+      .cls-5 {
+        filter: url(#Path_8);
+      }
+    </style>
+    <filter id="Path_8" x="0" y="0" width="533" height="550" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_12" data-name="Group 12" transform="translate(-208 -108)">
+    <g id="Group_11" data-name="Group 11" transform="translate(-21 -14)">
+      <g class="cls-5" transform="matrix(1, 0, 0, 1, 229, 122)">
+        <g id="Path_8-2" data-name="Path 8" class="cls-1" transform="translate(6 6)">
+          <path class="cls-3" d="M 257.5 518.5 C 122.9579162597656 518.5 13.5 405.22900390625 13.5 266 C 13.5 126.7710037231445 122.9579162597656 13.5 257.5 13.5 C 392.0420837402344 13.5 501.5 126.7710037231445 501.5 266 C 501.5 405.22900390625 392.0420837402344 518.5 257.5 518.5 Z"/>
+          <path class="cls-4" d="M 257.5 27 C 130.4019165039062 27 27 134.2149047851562 27 266 C 27 397.7850952148438 130.4019165039062 505 257.5 505 C 384.5980834960938 505 488 397.7850952148438 488 266 C 488 134.2149047851562 384.5980834960938 27 257.5 27 M 257.5 0 C 399.7132568359375 0 515 119.09228515625 515 266 C 515 412.90771484375 399.7132568359375 532 257.5 532 C 115.2866516113281 532 0 412.90771484375 0 266 C 0 119.09228515625 115.2866516113281 0 257.5 0 Z"/>
+        </g>
+      </g>
+      <line id="Line_4" data-name="Line 4" class="cls-2" y2="207.5" transform="translate(452.809 290.205)"/>
+      <path id="Path_7" data-name="Path 7" class="cls-2" d="M0,0V207.5" transform="translate(535.399 290.205)"/>
+    </g>
+  </g>
+</svg>
